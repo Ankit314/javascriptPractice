@@ -1,0 +1,14 @@
+let str1="CodingDots";
+let str2="Compiler ONE";
+console.log(str1);
+console.log(str2);
+let str3="Let's Code";
+let str4='This is "Javascript"';
+console.log(str3);
+console.log(str4);
+let str5="This is \"javascript\"";
+let str6='it\'s Awesome';
+console.log(str5);
+console.log(str6);
+let str7=`This is "javascript" and it's awesome`;
+console.log(str7);
